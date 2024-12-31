@@ -1,4 +1,4 @@
-# Time Series Analysis and Forecasting Project (MAS8382)
+# Time Series Analysis and Forecasting Project
 
 A comprehensive time series analysis project implementing and comparing three different forecasting approaches: Seasonal ARIMA, Time-Series Regression, and Dynamic Linear Models (DLM). The project analyses 10 years of monthly sales data (2011-2020) to predict future sales trends.
 
